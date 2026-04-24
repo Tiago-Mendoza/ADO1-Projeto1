@@ -17,12 +17,6 @@ Neste desafio, você assume o papel de um herói que deve atravessar uma trilha 
   - **Campanha em Sequência**: Sua vida é restaurada após cada vitória, mas a morte em qualquer batalha encerra sua jornada.
 - **Relatório de Batalha**: Ao final do jogo, receba um resumo detalhado de cada confronto.
 
-## 🛠️ Como Rodar
-Você pode usar o arquivo `compilar_e_rodar.bat` ou os comandos manuais:
 
-```bash
-javac jogo/main/Jogo.java
-java jogo.main.Jogo
-```
 
 Divirta-se enfrentando as criaturas das trevas! ⚔️🛡️
